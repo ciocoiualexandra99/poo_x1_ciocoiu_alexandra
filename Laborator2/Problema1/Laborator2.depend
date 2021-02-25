@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614242965 source:c:\users\adi\desktop\facultate\pmp\laborator2\main.cpp
+	<iostream>
+	"NumberList.h"
+
+1614243048 c:\users\adi\desktop\facultate\pmp\laborator2\include\numberlist.h
+
+1614242965 source:c:\users\adi\desktop\facultate\pmp\laborator2\problema1\main.cpp
+	<iostream>
+	"NumberList.h"
+
