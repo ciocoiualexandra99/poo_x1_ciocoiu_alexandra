@@ -61,6 +61,8 @@ void Printer::PrintAdd(const char* a, const char* b)
 	for (int i = la; i <= la+lb; i++)
 		rez[i] = b[i-la];
 	cout<<rez;
+delete rez;
+
 }
 
 
